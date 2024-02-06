@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "cu": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "array": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "vector": "cpp"
+  }
+}
